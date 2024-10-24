@@ -1,0 +1,11 @@
+1. Write the Docker File. (FROM , COPY, EXPOSE, WORKDIR, RUN, CMD)
+
+2. Building the docker image 
+
+ docker build -t money_api .         (. is the local directory money_api is the name given for docker image) 
+
+
+3.Running our app
+
+docker run -p 8000:8000 money_api  
+

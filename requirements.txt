@@ -1,0 +1,4 @@
+xmltodict==0.12.0
+vosk==0.3.30
+pydub==0.25.1
+apache-airflow-providers-amazon
